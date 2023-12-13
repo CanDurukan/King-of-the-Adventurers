@@ -1,2 +1,3 @@
 # King-of-the-Adventurers
-Split screen 3D platforming game
+*Do not open Extra menu
+**May include unlicensed assets
